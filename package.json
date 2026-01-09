@@ -22,7 +22,7 @@
     "docker": "npm run zip && docker-compose build"
   },
   "dependencies": {
-    "ansi_up": "^3.0.0",
+    "ansi_up": "^5.0.0",
     "nave": "^3.2.1",
     "neo-async": "^2.6.1"
   },
@@ -30,6 +30,6 @@
     "aws-sdk": "^2.382.0",
     "chai": "^4.2.0",
     "docker-lambda": "^0.15.3",
-    "mocha": "^5.2.0"
+    "mocha": "^11.7.5"
   }
 }
